@@ -1,0 +1,12 @@
+{
+  "name": "infobook",
+  "version": "1.0.0",
+  "description": "OSINT assistant (targets information arrangement)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SecVirus",
+  "license": "ISC"
+}
